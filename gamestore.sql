@@ -1,0 +1,1 @@
+﻿insert into tb_games (id_games,nama_game) values ("","mobilelegend");
